@@ -176,6 +176,11 @@ a.sidebar-nav-item:focus {
     font-weight: bold;
 }
 
+.info {
+    color: #FF6600;
+    font-weight: bold;
+}
+
 .me {
     /*color: #FF6600;*/
     color: #3B7EA1;
